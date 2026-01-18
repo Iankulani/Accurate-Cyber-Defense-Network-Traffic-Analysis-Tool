@@ -11,7 +11,7 @@ Whether used for incident response, network auditing, or ongoing security operat
 that threats are detected early, mitigated quickly, and analyzed with precision.
 
 
-## How to install**
+## How to install
 ```bash
  git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Network-Traffic-Analysis-Tool.git
  
