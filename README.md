@@ -23,4 +23,9 @@ that threats are detected early, mitigated quickly, and analyzed with precision.
 ```bash
 
 rustc Accurate-Cyber-Defense-Network-Traffic-Analysis-Tool.rs
+
 ```
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/Accurate-Cyber-Defense-Network-Traffic-Analysis-Tool&type=Date)](https://star-history.com/#Iankulani/Accurate-Cyber-Defense-Network-Traffic-Analysis-Tool&Date)
